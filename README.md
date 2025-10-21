@@ -7,9 +7,9 @@ I’m passionate about turning data into insights, building models, and telling 
 
 ## 🧰 Projects at a Glance
 
-| Project | Description | Tech Stack | View Notebook |
-|--------|-------------|------------|--------------|
-| Project1-EDA | **Data preprocessing** and exhaustive **EDA** (univariate and bivariate) on data for a food aggregator company with **business recommendations** | pandas, numpy, matplotlib, seaborn | [Notebook](docs/projects/project1-EDA/Gadiel_Shepherd_Full_Code.ipynb) |
+| Project | Description | Tech Stack | View Notebook | Feedback |
+|--------|-------------|------------|--------------|--------------|
+| Project1-EDA | **Data preprocessing** and exhaustive **EDA** (univariate and bivariate) on data for a food aggregator company with **business recommendations** | pandas, numpy, matplotlib, seaborn | [Notebook](docs/projects/project1-EDA/Gadiel_Shepherd_Full_Code.ipynb) | [View Feedback](#sales-forecasting-feedback) |
 | Project2-Machine_Learning | Devolopment, evaluation and optimization of a **decision tree classifiers** utilizing post/pre pruning for **loan prediction** with business recommendations| pandas, numpy, matplotlib, seaborn, sklearn | [Notebook](docs/projects/project2-Machine_Learning/Gadiel_Shepherd_Project2_full_code_notebook.ipynb) |
 | Project3-Advanced_Machine_Learning | Development, evaluation and optimization of **ensemble machine learning** methods (Random Forest, Bagging, Boosting, Adaptive Boosting, Gradient Boosting, XGBoost) utilizing **hyperparameter tuning** and **over/under sampling methods** for **visa approval predictions** with business recommendations| pandas, numpy, matplotlib, seaborn, sklearn, imblearn | [Notebook](docs/projects/project3-Advanced_Machine_Learning/Gadiel_Shepherd_Project3_Full_Code_Notebook.ipynb) |
 | Project4-Neural_Networks | Development, evaluation and optimization of **feed forward neural network** classifiers with varying parameters (# of hidden layers/neurons, activation functions, # epochs, optimizers, learning rate/momentum, weight initialization and regularization) for **predictive maintenance** with business recommendations| pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, keras | [Notebook](docs/projects/project4-Neural_Networks/Gadiel_Shepherd_NN_ReneWind_Main_Project_FullCode_Notebook.ipynb) |
@@ -18,3 +18,8 @@ I’m passionate about turning data into insights, building models, and telling 
 | Project7-Model_Deployment | Development of an **end-to-end sales forecasting ML pipeline** from raw data to deployment. Deployment via **containerization** of a **serialized** model (with dependencies), **hosting API endpoints** and **frontend UI** ensuring **accessible, scalable, quick, secure and consistent** ML solution for end users.| pandas, numpy, matplotlib, seaborn, sklearn, joblib, requests, huggingface_hub, Flask API, Docker, Streamlit | [Notebook]() |
 
 
+
+## 🔍 Moderator Feedback
+
+### Sales Forecasting Feedback
+> “Excellent feature engineering and model evaluation.”
