@@ -63,4 +63,4 @@ What truly distinguishes this work is your critical analytical thinking—partic
 
 📧 **Email:** gadi.shepherd@gmail.com  
 🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/gadiel-shepherd/)  
-📱 **Phone:** +972-058-665-8028
+📱 **Phone:** (+972) 058-665-8028
