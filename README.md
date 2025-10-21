@@ -45,7 +45,6 @@ Thank you for your work!”
 ### Project 6 Computer Vision with CNN 
 > **Grade: 57/60** <br><br>
 > “This is an outstanding submission that demonstrates strong technical competence in computer vision and deep learning. Your implementation of all four models was executed correctly with appropriate architectures, configurations, and training procedures. The code quality is excellent with proper preprocessing, data splitting, and model evaluation practices.
-
 What truly distinguishes this work is your critical analytical thinking—particularly your identification and consistent discussion of dataset bias throughout the assignment. Your observation that models might be learning context and scale patterns rather than actual helmet detection shows sophisticated understanding beyond mere implementation. The insights about shortcut learning and generalization concerns demonstrate real-world awareness that many students miss.”
 
 ### Project 7 Model Deployment 
