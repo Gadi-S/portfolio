@@ -1,11 +1,13 @@
 # Gadiel Shepherd — [Post Graduate Program in AI/ML: Business Applications](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course) — Portfolio
 
-Welcome! This repository contains my portfolio of data science / machine learning / AI projects completed in the AI/ML post graduate program delivered by The University of Texas at Austin: McCombs School of Business in collaboration with Great Learning.
+**Welcome!**
+This repository showcases my portfolio of **Data Science, Machine Learning, and AI** projects, developed as part of the **AI/ML Postgraduate Program** offered by **The University of Texas at Austin – McCombs School of Business**, in collaboration with **Great Learning**.
 
-This portfolio displays my deep understanding in using data to drive value and actionable business insights using end-to-end data science / machine learning / deep learning solutions. It shows how I can utilize the latest deep learning and generative AI techniques to to drive value across all industries. 
+These projects demonstrate my ability to leverage **data-driven insights** and deliver **end-to-end analytical and AI solutions** — from data preprocessing and feature engineering to model deployment and interpretation. They reflect my proficiency in applying the latest **machine learning, deep learning**, and **generative AI** techniques to create measurable business value across industries.
 
-These projects highlight my hunger, grit and determination in challenging myself to expand my skillset and toolkit beyond what I thought possible. The biggest lesson I have learnt throughout this program: **the learning never stops**. This program, in addition to my previous experience and education, forms an excellent foundation in my journey as a life-long learner, especially in the rapidly changing world of data and AI.
-
+Beyond the technical skills, this portfolio represents my curiosity, persistence, and drive to continuously expand my toolkit and challenge myself beyond comfort zones.
+The biggest takeaway from this journey: learning never stops.
+This program, combined with my prior experience and education, has laid a strong foundation for my growth as a lifelong learner in the ever-evolving world of data and AI.
 ---
 
 ## 🧰 Projects at a Glance
