@@ -23,7 +23,8 @@ I’m passionate about turning data into insights, building models, and telling 
 
 ### Project 1 EDA 
 > **Grade: 60/60** <br><br>
-> “Excellent feature engineering and model evaluation.”
+> “We’re pleased to inform you that after a thorough review, your project stands out. The content is well-executed, and you’ve effectively handled all of our inquiries.
+Thank you for your work!”
 
 ### Sales Forecasting Feedback
 > “Excellent feature engineering and model evaluation.”
