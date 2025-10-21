@@ -5,9 +5,10 @@ This repository showcases my portfolio of **Data Science, Machine Learning, and 
 
 These projects demonstrate my ability to leverage **data-driven insights** and deliver **end-to-end analytical and AI solutions** — from data preprocessing and feature engineering to model deployment and interpretation. They reflect my proficiency in applying the latest **machine learning, deep learning**, and **generative AI** techniques to create measurable business value across industries.
 
-Beyond the technical skills, this portfolio represents my curiosity, persistence, and drive to continuously expand my toolkit and challenge myself beyond comfort zones.
-The biggest takeaway from this journey: learning never stops.
-This program, combined with my prior experience and education, has laid a strong foundation for my growth as a lifelong learner in the ever-evolving world of data and AI.
+Beyond the technical skills, this portfolio represents my **curiosity, persistence**, and **hunger** to continuously expand my toolkit and challenge myself beyond comfort zones.
+The biggest takeaway from this journey: ***learning never stops***.
+This program, combined with my prior experience and education as a data analyst, has laid a strong foundation for my growth as a **lifelong learner** in the ever-evolving world of **data and AI**.
+
 ---
 
 ## 🧰 Projects at a Glance
