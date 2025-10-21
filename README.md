@@ -1,6 +1,7 @@
 # Gadiel Shepherd — [Post Graduate Program in AI/ML: Business Applications](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course) — Portfolio
 
 **Welcome!**
+
 This repository showcases my portfolio of **Data Science, Machine Learning, and AI** projects, developed as part of the **AI/ML Postgraduate Program** offered by **The University of Texas at Austin – McCombs School of Business**, in collaboration with **Great Learning**.
 
 These projects demonstrate my ability to leverage **data-driven insights** and deliver **end-to-end analytical and AI solutions** — from data preprocessing and feature engineering to model deployment and interpretation. They reflect my proficiency in applying the latest **machine learning, deep learning**, and **generative AI** techniques to create measurable business value across industries.
