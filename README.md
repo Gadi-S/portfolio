@@ -10,6 +10,8 @@ Beyond the technical skills, this portfolio represents my **curiosity, persisten
 The biggest takeaway from this journey: ***learning never stops***.
 This program, combined with my prior experience and education as a data analyst, has laid a strong foundation for my growth as a **lifelong learner** in the ever-evolving world of **data and AI**.
 
+Click [here](#contact-details) for conatact details.
+
 ---
 
 ## 🧰 Projects at a Glance
@@ -56,3 +58,9 @@ What truly distinguishes this work is your critical analytical thinking—partic
 
 ### Project 7 Model Deployment 
 > **Grade: Ungraded** <br><br>
+
+## Contact Details
+
+📧 **Email:** gadi.shepherd@gmail.com  
+🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/gadiel-shepherd/) 
+📱 **Phone:** +972-058-665-8028
