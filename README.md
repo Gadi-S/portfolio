@@ -22,7 +22,7 @@ I’m passionate about turning data into insights, building models, and telling 
 ## 🔍 Moderator Feedback
 
 ### Project 1 EDA 
-> Grade: 60/60 <br>
+> **Grade: 60/60** <br><br>
 > “Excellent feature engineering and model evaluation.”
 
 ### Sales Forecasting Feedback
